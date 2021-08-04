@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
-<a href="https://elixir-lang.org/"><img src="https://img2.freepng.es/20180411/ejq/kisspng-elixir-erlang-functional-programming-programming-l-phoenix-5ace5ed997ba31.6725697215234741376215.jpg" width="40" height="40" /></a>
+<a href="https://elixir-lang.org/"><img src="https://miro.medium.com/max/400/0*v314x9-Ix2mMxoCp." width="40" height="40" /></a>
 <a href="https://phoenixframework.org/"><img src="https://2.bp.blogspot.com/-jaF-FgJj69Y/WOlpBP0ma5I/AAAAAAAAL74/r575ydo96yc9Yi0dxob_TaffPPa6Ckj3wCLcB/s1600/phonix.png" width="40" height="40" /></a>
 <a href="https://www.cplusplus.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" /></a>
 <a href="https://www.cprogramming.com/"><img src="https://img.icons8.com/color/452/c-programming.png" width="40" height="40" /></a>
@@ -40,10 +40,12 @@ You can click the Preview link to take a look at your changes.
 <a href="https://unity3d.com/es/get-unity/download"><img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="40" height="40"></a>
 <a href="https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office"><img src="https://wyday.com/images/lm/langs/vba.svg" width="40" hegiht="40"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://w7.pngwing.com/pngs/278/63/png-transparent-visual-basic-net-c-computer-programming-net-framework-vb-logo-text-trademark-logo-thumbnail.png" width="40" hegiht="40"></a>
-
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jardzrey&label=Profile%20views&color=0e75b6&style=flat" alt="jardzrey" /> </p>
+
+<h2 align="left">:heart: Let's get connected:</h2>
 
 
 [![Linkedin: jardzrey](https://img.shields.io/badge/-jardzrey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jes%C3%BAs-abelardo-rodr%C3%ADguez-reyna-2a965a117/)](https://www.linkedin.com/in/jes%C3%BAs-abelardo-rodr%C3%ADguez-reyna-2a965a117/)
