@@ -47,5 +47,8 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
+<p align="left">
+<a href="mailto:jardzrey@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="chandrikadeb7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jes%C3%BAs-abelardo-rodr%C3%ADguez-reyna-2a965a117/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jardzrey" height="30" width="40" /></a>
+</p>
 
-[![Linkedin: jardzrey](https://img.shields.io/badge/-jardzrey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jes%C3%BAs-abelardo-rodr%C3%ADguez-reyna-2a965a117/)](https://www.linkedin.com/in/jes%C3%BAs-abelardo-rodr%C3%ADguez-reyna-2a965a117/)
