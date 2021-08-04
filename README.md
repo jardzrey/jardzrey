@@ -2,6 +2,7 @@
 
 <h3 align="center">Hello, I'm a Software Engineering | I currently work with 3D CAD Systems at <a href="http://www.cerrey.com.mx/">Cerrey</a></h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jardzrey&label=Profile%20views&color=0e75b6&style=flat" alt="jardzrey" /> </p>
 
 - 👀 I’m interested in Software Development:computer: and Rap Music :headphones: 
 
@@ -43,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jardzrey&label=Profile%20views&color=0e75b6&style=flat" alt="jardzrey" /> </p>
+
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
