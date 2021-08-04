@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.cprogramming.com/"><img src="https://img.icons8.com/color/452/c-programming.png" width="40" height="40" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://sg.com.mx/sites/default/files/styles/max_w680/public/images/C_sharp%20CDMx.png?itok=PygyXf53" width="40" height="40" /></a>
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://es.redux.js.org/"><img src="https://e7.pngegg.com/pngimages/413/852/png-clipart-redux-react-logo-javascript-dq-purple-violet-thumbnail.png" width="40" height="40"></a>
+<a href="https://es.redux.js.org/"><img src="https://lh3.googleusercontent.com/proxy/I9f-3wR6rKw2nVRgD6oaveyBn34PLfrJHfnwGmmbQXRmN9LoeZJN3qT_dbw6PYPGPwiKxwfb8Zfa9coPRa3zw8-d9QOqiCQhy8lAGIW4jEFLrLe_Xw" width="40" height="40"></a>
 <a href="https://reactnative.dev/" target="_blank"><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://www.vim.org/"><img src="https://cdn.worldvectorlogo.com/logos/vim.svg" width="40" height="40" /></a>
 <a href="https://neovim.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/1200px-Neovim-mark-flat.svg.png" width="40" height="40" /></a>
