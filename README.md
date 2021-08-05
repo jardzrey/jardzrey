@@ -27,6 +27,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.cplusplus.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40" height="40" /></a>
 <a href="https://www.cprogramming.com/"><img src="https://img.icons8.com/color/452/c-programming.png" width="40" height="40" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://sg.com.mx/sites/default/files/styles/max_w680/public/images/C_sharp%20CDMx.png?itok=PygyXf53" width="40" height="40" /></a>
+<a href="https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office"><img src="https://wyday.com/images/lm/langs/vba.svg" width="40" hegiht="40"></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://www.aprendexojo.com/wp-content/uploads/2016/06/vBasic.png" width="40" hegiht="40"></a>
 <a href="https://dotnet.microsoft.com/apps/aspnet"><img src="https://www.programandoamedianoche.com/wp-content/uploads/2008/09/asp.net_.logo_.png" width="40" height="40" /></a>
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://es.redux.js.org/"><img src="https://lh3.googleusercontent.com/proxy/I9f-3wR6rKw2nVRgD6oaveyBn34PLfrJHfnwGmmbQXRmN9LoeZJN3qT_dbw6PYPGPwiKxwfb8Zfa9coPRa3zw8-d9QOqiCQhy8lAGIW4jEFLrLe_Xw" width="40" height="40"></a>
@@ -40,8 +42,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.microsoft.com/es-mx/sql-server/sql-server-downloads"><img src="https://img.icons8.com/color/452/microsoft-sql-server.png" width="40" height="40"></a> 
 <a href="https://www.postgresql.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="40" height="40"></a>
 <a href="https://unity3d.com/es/get-unity/download"><img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="40" height="40"></a>
-<a href="https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office"><img src="https://wyday.com/images/lm/langs/vba.svg" width="40" hegiht="40"></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://w7.pngwing.com/pngs/278/63/png-transparent-visual-basic-net-c-computer-programming-net-framework-vb-logo-text-trademark-logo-thumbnail.png" width="40" hegiht="40"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
