@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm JARdzRey</h1>
 
-<h3 align="center">Hello, I'm a Software Engineering | I currently work with 3D CAD Systems at <a href="http://www.cerrey.com.mx/">Cerrey</a></h3>
+<h3 align="center">Hello, I'm a Software Engineer | I'm working at <a href="http://www.cerrey.com.mx/">Cerrey</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jardzrey&label=Profile%20views&color=0e75b6&style=flat" alt="jardzrey" /> </p>
 
