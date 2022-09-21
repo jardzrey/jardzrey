@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jardzrey&label=Profile%20views&color=0e75b6&style=flat" alt="jardzrey" /> </p>
 
-- 👀 I’m interested in Software Development:computer: and Music :headphones: 
+- 👀 I interested in Software Development:computer: and Music :headphones: 
 
-- 🌱 I’m currently learning **Elixir:crystal_ball:**
+- 🌱 I currently learning **Elixir:crystal_ball:**
 
 - 📫 How to reach me **jardzrey@gmail.com**
 
